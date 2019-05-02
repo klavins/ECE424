@@ -1,5 +1,5 @@
 .ipynb_checkpoints/
 .DS_STORE
-PyRosetta*
-tutorials/
 test/
+tutorials/
+env/
